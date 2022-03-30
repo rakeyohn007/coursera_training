@@ -1,2 +1,2 @@
 #display your mom
-print('you suck')
+print('you suck bad')
